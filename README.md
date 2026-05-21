@@ -1,1 +1,1 @@
-# Rustlings - my solutions to these exercises for rust learning
+# Rustlings - my solutions to these exercises while learning rust
